@@ -1,0 +1,23 @@
+{
+  "name": "p3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "P3Watcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-DSI-1920/p2-t1-c3-filesystem-Gandares.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-DSI-1920/p2-t1-c3-filesystem-Gandares/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-DSI-1920/p2-t1-c3-filesystem-Gandares#readme",
+  "dependencies": {
+    "commander": "^4.1.1",
+    "node-watch": "^0.6.3"
+  }
+}
